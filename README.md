@@ -1,0 +1,2 @@
+# 2024_PNAS_Schlissel_etal
+diffusion simulation code from 2024_PNAS_Schlissel_etal
