@@ -5,6 +5,9 @@ This repositotory incldues MATLAB code to simulate diffusion of a particle on a 
 
 The code was written in MATLAB, but the output was captured and visualized using R.
 
+there is a ZIP'd directory of the MATLAB output data in each simulation directory, which 
+can be decompressed and used directly in the plotting script
+
 Generallly... 
 - use the slur_call_steadyState.sh scripts to initiate SLURM jobs for each parameter set
   - update the various filepaths as neccesssary in the slur_call_steadyState.sh script
